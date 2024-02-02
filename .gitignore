@@ -2,3 +2,7 @@ churn_scores.csv
 demo/Please read - Code Changes.docx
 demo/
 BAN 5763 CLV Group Exercise.docx
+pred_v_actual_train.pkl
+CLV_scores.csv
+combined_df.pkl
+margin_scores.csv
