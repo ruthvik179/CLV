@@ -17,6 +17,5 @@ Changes from original code listed below:
     - Read in *combined_df* as pickle not CSV
     - Add **demog_ownrent** to list of variables to exclude in model fitting since it was encoded
     - Turn dimensionality reduction code into a *while loop*
-    - Hyperparameter tuning for gradient boosting model
 - **4 - CLV Calculations**
     - Read in *combined_df* as pickle not CSV
